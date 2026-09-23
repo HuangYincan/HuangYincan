@@ -15,6 +15,6 @@ For information, you can visit my [blog](https://hyc.ac/blog/about) or [contact 
 - [Agentero](https://github.com/poco-ai/Agentero): Agent-friendly paper management. An alternative to Zotero.
 - [Multica](https://github.com/multica-ai/multica): An open-source workspace where you assign work to AI coding agents the way you'd assign it to a teammate。
 
-## One More Thing
+## One More Thing :)
 
 ![banner](./nazimie.png)
