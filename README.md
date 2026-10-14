@@ -8,7 +8,6 @@ For information, you can visit my [blog](https://hyc.ac/blog/about) or [contact 
 
 - [AIPM](https://github.com/AI-PM-Wiki/AIPM): A modern wiki for AI product management tutorials.
 - [VideoNote-MCP](https://github.com/HuangYincan/VideoNote-MCP): A practical video-to-notes MCP server.
-- [BililiveRecorder-GUI](https://github.com/HuangYincan/BililiveRecorder-GUI): A cross-platform desktop client for BililiveRecorder, built with Tauri.
 
 ## Contributed To
 
