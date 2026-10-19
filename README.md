@@ -2,7 +2,7 @@
 
 I'm Yincan Huang, undergraduate@ZJU 2023, currently interested in AI Efficiency.
 
-For information, you can visit my [blog](https://hyc.ac/blog/about) or [contact me](mailto:Yincan_Huang@zju.edu.cn) !
+For information, you can visit my [LifeOS](https://hyc.ac) or [contact me](mailto:Yincan_Huang@zju.edu.cn) !
 
 ## Projects
 
